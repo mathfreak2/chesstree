@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NodeLayout">
+        
+    </declare-styleable>
+    <declare-styleable name="NodeView">
+        <attr name="level" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="ScrollingLayout">
+
+    </declare-styleable>
+    <declare-styleable name="ChessMoveFormatterLayout" />
+</resources>
